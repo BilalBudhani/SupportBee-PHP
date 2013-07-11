@@ -3,7 +3,7 @@ PHP library to interact with Great API from supportbee.com for more information 
 
 ### Requirements
 * PHP 5.3+
-* Curl 
+* Curl (library credits: https://github.com/shuber/curl/)
 
 ### Usage 
 ```
