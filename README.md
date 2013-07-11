@@ -1,4 +1,4 @@
-# SupportBee.com PHP API Library (W.I.P)
+## SupportBee.com PHP API Library (W.I.P)
 PHP library to interact with Great API from supportbee.com for more information check https://developers.supportbee.com/api.
 
 ### Requirements
